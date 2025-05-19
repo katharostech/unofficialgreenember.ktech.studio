@@ -9,13 +9,15 @@ featured: true
 filename: helmer-on-the-nes
 ---
 
+![Screenshot of Title Screen](/emulator/helmer/screenshot.png)
+
 ## What Is It?
 
 We are experimenting with making an _actual_ NES ( [Nintendo Entertainment System][nes] ) game for
 Helmer in the Dragon Tomb, inspired by the [kickstarter], which hasn't finished yet.
 
-Anyway, Sam was giving away a fake NES cartridge just for the nostalgia as a part of one of the
-events and he also said that some of his favorite games were old NES games.
+Sam was giving away a fake NES cartridge just for the nostalgia as a part of one of the events and
+he also said that some of his favorite games were old NES games.
 
 We were thinking that'd it'd awesome if we could make _real life_ **working** NES cartridges for
 Helmer, but this is all 100% unofficial!
