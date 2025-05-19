@@ -111,6 +111,13 @@
     }
   }
 
+  .zag-border-color {
+    border-color: var(--color-zag-dark);
+    &:where(.dark, .dark *) {
+      border-color: var(--color-zag-light);
+    }
+  }
+
   .zag-border-b {
     border-bottom: var(--zag-stroke) solid;
     border-color: var(--color-zag-dark);

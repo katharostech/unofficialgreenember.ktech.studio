@@ -5,21 +5,26 @@ export const GLOBAL = {
   username: "KTech Studio",
   rootUrl: "https://unofficialgreenember.ktech.studio",
   shortDescription: "Unofficial Green Ember Fan Art",
-  longDescription: "Unofficial fan art, music & games for the Green Ember series by KTech Studio.",
-  
+  longDescription:
+    "Unofficial fan art, music & games for the Green Ember series by KTech Studio.",
+
   // Social media links
   githubProfile: null,
   twitterProfile: null,
   linkedinProfile: null,
-  
+
   // Common text names used throughout the site
   articlesName: "Articles",
   projectsName: "Projects",
   viewAll: "View All",
-  
+
   // Common descriptions used throughout the site
   noArticles: "No featured articles yet.",
   noProjects: "No featured projects yet.",
+
+  // Contact metadata
+  contactTitle: "Contact",
+  contactDescription: "Contact KTech Studio",
 
   // Blog metadata
   blogTitle: "Articles",
@@ -39,5 +44,6 @@ export const GLOBAL = {
     home: "/",
     projects: "/projects",
     blog: "/blog",
-  }
+    contact: "/contact",
+  },
 };

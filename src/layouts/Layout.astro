@@ -16,6 +16,11 @@ import "../styles/global.css";
       href="https://fonts.bunny.net/css?family=ibm-plex-mono:400,400i,500,500i,600,600i,700,700i"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css"
+    />
     <slot name="head" />
   </head>
   <body class="zag-bg zag-text zag-transition font-mono">
@@ -24,5 +29,9 @@ import "../styles/global.css";
       <slot />
     </main>
     <Footer />
+
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
   </body>
 </html>
