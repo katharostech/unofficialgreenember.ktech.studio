@@ -2,15 +2,15 @@
 
 export const GLOBAL = {
   // Site metadata
-  username: "Zaggonaut",
-  rootUrl: "https://zaggonaut.dev",
-  shortDescription: "Retro-Inspired Theme &<br /> Built for Astro",
-  longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
+  username: "KTech Studio",
+  rootUrl: "https://unofficialgreenember.ktech.studio",
+  shortDescription: "Unofficial Green Ember Fan Art",
+  longDescription: "Unofficial fan art, music & games for the Green Ember series by KTech Studio.",
   
   // Social media links
-  githubProfile: "https://github.com/RATIU5/zaggonaut",
-  twitterProfile: "https://twitter.com/",
-  linkedinProfile: "https://www.linkedin.com/",
+  githubProfile: null,
+  twitterProfile: null,
+  linkedinProfile: null,
   
   // Common text names used throughout the site
   articlesName: "Articles",
@@ -22,17 +22,17 @@ export const GLOBAL = {
   noProjects: "No featured projects yet.",
 
   // Blog metadata
-  blogTitle: "My Thoughts & Takes",
-  blogShortDescription: "Practical wisdom, unfiltered thoughts, and hot takes.",
-  blogLongDescription: "Web development, tech trends, and the occasional programming mishap.",
+  blogTitle: "Articles",
+  blogShortDescription: "Articles about our unofficial fan art.",
+  blogLongDescription: "Articles about our unofficial fan art.",
 
   // Project metadata
-  projectTitle: "Projects and Code",
-  projectShortDescription: "A list of my web development projects and developer tools.",
-  projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
+  projectTitle: "Projects",
+  projectShortDescription: "Fan art projects.",
+  projectLongDescription: "Green ember fan art projects we've started.",
 
   // Profile image
-  profileImage: "michael-dam-unsplash.webp",
+  profileImage: "logo.svg",
 
   // Menu items
   menu: {

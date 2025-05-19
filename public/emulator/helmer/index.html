@@ -1,0 +1,14 @@
+<html>
+
+<head>
+    <script type="module">
+        import { Nostalgist } from 'https://cdn.skypack.dev/nostalgist'
+
+        const resp = await fetch('/emulator/helmer/helmer.nes')
+        const rom = await resp.blob();
+
+        Nostalgist.nes(rom);
+    </script>
+</head>
+
+</html>
