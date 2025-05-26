@@ -77,7 +77,10 @@ of the time you need to connect to the internet just to download an update so yo
 
 And while you used to be able to download and play games on your computer, now Steam has dominated
 the PC game market so that you can't just buy a game and get a download that is "yours". You must
-have an online account and play the game through their app, connected to their store.
+have an online account and play the game through their app, connected to their store.[^1]
+
+[^1]: That's not to say that we fault Helmer in the Dragon Tomb for being on Steam. Steam is a good way to
+get a game for a lot of people, but we do think it's important to have an alternative if possible.
 
 Games just don't last anymore. Going all the way back to the NES isn't really necessary to fix that.
 For instance there is a game shop, GOG ( Good Old Games ), that works with publishers to package
@@ -91,9 +94,9 @@ is physically separate from the "normal" world of whatever else you use your com
 
 Modern game consoles, though, require internet access to keep working, they are always changing, and
 every year it seems less likely that you'll be able to just buy a game and have it keep working
-years later. We keep saying that one day we're going to have to make our own game console somehow.
+years later.
 
----
+We keep saying that one day we're going to have to make our own game console somehow...
 
 Anyway, making an NES game may not be the most practical or useful thing, but it's been educational,
 nostalgic, and fun so far.
