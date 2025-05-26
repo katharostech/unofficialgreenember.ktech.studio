@@ -37,9 +37,10 @@ find the time to finish it.
 
 ## Play Now!
 
-You can play what terribly little we have of the game so far in your browser right now! OK, really
-it's only a title screen that makes a noise when you press the start button. But that is chaning
-quickly. This page and demo will be updated as we make more progress.
+You can play what terribly little we have of the game so far in your browser right now! So far we
+only have a title screen that makes a noise when you press the start button, and a screen where you
+can slide the character around, but progress has been fairly steady. This page and demo will be
+updated as we make more progress.
 
 [Play Online!][emu]
 
